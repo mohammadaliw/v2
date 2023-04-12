@@ -5,7 +5,7 @@ https://www.fastssh.com/page/create-v2ray-account/server/676724/vmess-germany-2/
 
 gr.chteam.tk
 ____________________________
-vless://57adb7d0-d93e-11ed-b826-1239d0255272@fnv.ircf.space:443?mode=gun&security=tls&encryption=none&fp=randomized&type=grpc&serviceName=vlgrpc&sni=fr.chteam.tk#FR+Vless-gRPC%282023-04-19%29
+vless://61f1ff80-d94d-11ed-a854-1239d0255272@fnv.ircf.space:443?mode=gun&security=tls&encryption=none&fp=safari&type=grpc&serviceName=vlgrpc&sni=fr.chteam.tk#FR+Vless-gRPC%282023-04-19%29
 
 trojan://c1ce3ee0-d826-11ed-b657-1239d0255272@dns2.cloudflare.com:443?mode=gun&security=tls&fp=safari&type=grpc&serviceName=trgrpc&sni=us1.chteam.tk#US+Trojan-gRPC%282023-04-18%29
 vmess://eyJhZGQiOiJpbnRlbC5jbG91ZGZsYXJlLmNvbSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI5OTg1MjMzMC1kODI0LTExZWQtYjc0Zi0xMjM5ZDAyNTUyNzIiLCJuZXQiOiJncnBjIiwicGF0aCI6InZtZ3JwYyIsInBvcnQiOiI0NDMiLCJwcyI6IlVTK1ZNRVNTLWdSUEMgKDIwMjMtMDQtMTgpIiwic2N5Ijoibm9uZSIsInNuaSI6InVzYS5jaHRlYW0udGsiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiZ3VuIiwidiI6IjIifQ==
