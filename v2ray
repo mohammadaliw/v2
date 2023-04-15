@@ -5,6 +5,7 @@ https://www.fastssh.com/page/create-v2ray-account/server/676724/vmess-germany-2/
 
 gr.chteam.tk
 ____________________________
+vless://16ad70d1-8db8-4e0a-baa0-f8f0f6be3189@192.200.160.17:443?path=%2Fvless&security=tls&encryption=none&host=mr.chteam.tk&type=ws&sni=mr.chteam.tk#مخابرات
 vless://16ad70d1-8db8-4e0a-baa0-f8f0f6be3189@adsl.chteam.tk:443?path=%2Fvless&security=tls&encryption=none&host=mr.chteam.tk&type=ws&sni=mr.chteam.tk#mr
 vless://61f1ff80-d94d-11ed-a854-1239d0255272@195.245.221.231:443?mode=gun&security=tls&encryption=none&fp=safari&type=grpc&serviceName=vlgrpc&sni=fr.chteam.tk#FR+Vless-gRPC%282023-04-19%29
 
